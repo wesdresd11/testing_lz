@@ -1,3 +1,4 @@
+#Вариант 6
 
 
 def equation(a: float, b: float) -> float:
